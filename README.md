@@ -12,7 +12,7 @@ How to use:
 2) cd to cloned repository folder
 3) Run 'rails db:migrate'
 4) Run 'rails server'
-5) API: POST 'localhost:3000/prepare'
+5) API: POST '127.0.0.1:3000/prepare'
 
 Running tests:
 
